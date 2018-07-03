@@ -1,0 +1,28 @@
+.wrapper{
+    width:100%;
+    background:#FFFFFF;
+    height:200px;
+    float:left;
+}
+
+.modules {
+    width:100%;
+    background:#FFFFFF;
+    float:left;
+    margin-left:10px;
+}
+
+.modules a{
+    float:left;
+    text-decoration:none;
+    margin-left:30px;
+}
+
+.modules a img{
+    float:left;
+}
+
+.modules a:hover{
+    color:orange;
+}
+
